@@ -9,8 +9,10 @@ public class sumofnodd{
         int sum=1;
         while(inc<oddnum){
             store=store + sum;
+            System.out.println("the odd no.s are "+sum);
             sum+=2;            
             inc+=1;
+            
         }
         System.out.println(" sum of first n narural no. is = " + store  );
     }
