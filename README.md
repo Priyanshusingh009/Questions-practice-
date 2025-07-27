@@ -1,1 +1,1 @@
-this is for practicing queation
+this is for practicing question
